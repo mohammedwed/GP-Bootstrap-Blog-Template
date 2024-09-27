@@ -1,0 +1,18 @@
+header:
+--------
+Welcome to Blog Home!
+A Bootstrap 5 starter layout for your next blog homepage
+
+
+Footer:
+--------
+Copyright © Year
+
+
+
+Featured Post:
+--------------
+Image:  <a href="#!"><img src="https://dummyimage.com/850x350/dee2e6/6c757d.jpg" alt="..."></a>
+Date: <div>January 1, 2023</div>
+
+
